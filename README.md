@@ -55,12 +55,77 @@ I aim to design efficient, modular, and production-ready applications with scala
 
 ## 03. Project Portfolio
 
-• Airbnb-Style Rental Platform (MERN Stack)  
-• WebSocket-Powered Kanban Board  
-• Personal Portfolio Website  
-• AI-Driven Real-Time Conflict Resolution System  
-• Smart Energy Management System  
-• Healthcare Data Analytics Project  
+### 🏠 Airbnb-Style Rental Platform (MERN Stack)
+A full-stack web application inspired by modern rental platforms.
+
+**Key Highlights:**
+- RESTful API architecture  
+- CRUD operations with MongoDB  
+- Dynamic routing with React  
+- Modular backend structure  
+- Scalable full-stack integration  
+
+---
+
+### 📊 WebSocket-Powered Kanban Board
+A real-time collaborative task management system.
+
+**Key Highlights:**
+- WebSocket-based live updates  
+- Drag-and-drop task flow  
+- Event-driven backend logic  
+- Real-time synchronization  
+- Optimized state management  
+
+---
+
+### 🌐 Personal Portfolio Website
+A responsive developer portfolio built using HTML, CSS, and JavaScript.
+
+**Key Highlights:**
+- Clean UI design  
+- Structured layout  
+- Responsive architecture  
+- Resume integration  
+- GitHub project linking  
+
+---
+
+### 🤖 AI-Driven Real-Time Conflict Resolution System
+An AI-based analytical system for resolving team conflicts using intelligent modeling.
+
+**Key Highlights:**
+- Pattern recognition  
+- Predictive decision modeling  
+- Data-driven optimization  
+- Analytical evaluation  
+
+---
+
+### ⚡ Smart Energy Management System
+An optimization-focused system designed for industrial energy efficiency.
+
+**Key Highlights:**
+- Resource optimization modeling  
+- Data analytics framework  
+- Performance monitoring logic  
+- Scalable system architecture  
+
+---
+
+### 📈 Healthcare Data Analytics Project
+A predictive analytics system leveraging time-series and regression models.
+
+**Technologies Used:**
+- ARIMA  
+- XGBoost  
+- Decision Trees  
+
+**Key Highlights:**
+- Forecast modeling  
+- Regression analysis  
+- Data-driven decision support  
+- Optimization strategies  
 
 ---
 
@@ -72,6 +137,7 @@ I aim to design efficient, modular, and production-ready applications with scala
 • MongoDB Schema Design  
 • Clean & Modular Code Practices  
 • Strong Problem-Solving Approach  
+• Data-Driven System Modeling  
 
 ---
 
