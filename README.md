@@ -1,47 +1,66 @@
-<h1 align="center">Hi, I'm Bhavana Gowda 👋</h1>
+<h1 align="center">Bhavana Gowda</h1>
+<p align="center"><b>Full Stack Developer • MERN Stack • AI Enthusiast</b></p>
 
 <p align="center">
-  <b>Full Stack Developer • MERN Stack Engineer • AI Enthusiast</b>
-</p>
-
-<p align="center">
-  Designing scalable web systems with clean architecture and real-world impact.
+  Building scalable web applications and intelligent systems with clean architecture.
 </p>
 
 ---
 
-## 01. Profile
+## 01. About Me
 
 🎓 B.Tech – Computer Science Engineering (4th Semester)  
 🏫 Dayanand Sagar University  
 
-I build modern web applications using the MERN stack and explore AI-driven system design.  
-My focus is on writing structured, maintainable code and developing solutions that scale efficiently.
-
-I believe in clarity, performance, and thoughtful system architecture.
+Focused on full-stack web development and AI-powered systems.  
+I aim to design efficient, modular, and production-ready applications with scalable backend architecture.
 
 ---
 
-## 02. Core Technologies
+## 02. Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mongodb" />
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=js" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=express" />
+</p>
+
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
 ---
 
 ## 03. Project Portfolio
 
-▸ Airbnb-Style Rental Platform — Full Stack MERN Application  
-▸ WebSocket-Powered Kanban Board — Real-Time Task Management System  
-▸ Personal Portfolio Website — Responsive Frontend Project  
-▸ AI-Driven Conflict Resolution System  
-▸ Smart Energy Management System  
-▸ Healthcare Data Analytics (ARIMA, XGBoost, Decision Trees)
+• Airbnb-Style Rental Platform (MERN Stack)  
+• WebSocket-Powered Kanban Board  
+• Personal Portfolio Website  
+• AI-Driven Real-Time Conflict Resolution System  
+• Smart Energy Management System  
+• Healthcare Data Analytics Project  
 
 ---
 
@@ -49,28 +68,22 @@ I believe in clarity, performance, and thoughtful system architecture.
 
 • RESTful API Development  
 • Real-Time Communication Systems  
-• MongoDB Schema Design  
 • Scalable Backend Architecture  
-• Frontend State Management  
-• Data-Driven System Modeling  
+• MongoDB Schema Design  
+• Clean & Modular Code Practices  
+• Strong Problem-Solving Approach  
 
 ---
 
-## 05. Current Focus
-
-• Strengthening Data Structures & Algorithms  
-• Building production-ready full-stack applications  
-• Exploring AI-powered automation systems  
-• Preparing for competitive software engineering roles  
-
----
-
-## 06. Connect With Me
+## 05. Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bhavana-gowda-a102932ba">
+  <a href="https://www.linkedin.com/in/bhavana-gowda-a102932ba" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+</p>
+
+<p align="center">
   <a href="mailto:bhavna.gowda010@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
