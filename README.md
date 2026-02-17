@@ -1,57 +1,71 @@
-<h1 align="center">Bhavana Gowda</h1>
-<h3 align="center">Full Stack Developer • MERN Stack • AI Enthusiast</h3>
+<h1 align="center">Hi, I'm Bhavana Gowda 👋</h1>
 
 <p align="center">
-  Turning ideas into scalable web applications & intelligent systems.
+  <b>Full Stack Developer • MERN Stack Engineer • AI Enthusiast</b>
+</p>
+
+<p align="center">
+  Designing scalable web systems with clean architecture and real-world impact.
 </p>
 
 ---
 
-## ✦ About Me
+## 01. Profile
 
-🎓 B.Tech in Computer Science Engineering (4th Semester)  
+🎓 B.Tech – Computer Science Engineering (4th Semester)  
 🏫 Dayanand Sagar University  
 
-I am a driven and detail-oriented full-stack developer with hands-on experience in modern web technologies and AI-powered systems. I focus on building scalable, efficient, and well-structured applications using clean architecture principles.
+I build modern web applications using the MERN stack and explore AI-driven system design.  
+My focus is on writing structured, maintainable code and developing solutions that scale efficiently.
 
-Areas of Interest:
-• Full Stack Development (MERN)  
-• Real-Time Web Applications  
-• AI-Based Systems  
-• Data Structures & Algorithms  
+I believe in clarity, performance, and thoughtful system architecture.
 
 ---
 
-## ✦ Tech Arsenal
+## 02. Core Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mongodb,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mongodb" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
 ---
 
-## ✦ Selected Projects
+## 03. Project Portfolio
 
-▸ Airbnb-Style Rental Platform (MERN Stack)  
-▸ WebSocket-Powered Kanban Board  
-▸ Personal Portfolio Website  
-▸ AI-Driven Real-Time Conflict Resolution System  
+▸ Airbnb-Style Rental Platform — Full Stack MERN Application  
+▸ WebSocket-Powered Kanban Board — Real-Time Task Management System  
+▸ Personal Portfolio Website — Responsive Frontend Project  
+▸ AI-Driven Conflict Resolution System  
 ▸ Smart Energy Management System  
-▸ Healthcare Data Analytics Project  
+▸ Healthcare Data Analytics (ARIMA, XGBoost, Decision Trees)
 
 ---
 
-## ✦ Development Philosophy
+## 04. Technical Strengths
 
-• Clean & modular code structure  
-• RESTful API design  
-• Scalable system architecture  
-• Continuous learning & improvement  
-• Strong problem-solving mindset  
+• RESTful API Development  
+• Real-Time Communication Systems  
+• MongoDB Schema Design  
+• Scalable Backend Architecture  
+• Frontend State Management  
+• Data-Driven System Modeling  
 
 ---
 
-## ✦ Let's Connect
+## 05. Current Focus
+
+• Strengthening Data Structures & Algorithms  
+• Building production-ready full-stack applications  
+• Exploring AI-powered automation systems  
+• Preparing for competitive software engineering roles  
+
+---
+
+## 06. Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bhavana-gowda-a102932ba">
